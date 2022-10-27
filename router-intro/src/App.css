@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  text-decoration: none;
+  justify-content: space-evenly;
+}
